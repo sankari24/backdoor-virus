@@ -1,0 +1,8 @@
+for this program to run on both windows and kali linux you need python version 2 not python version3
+both in backdoorlistener.py file and backdoorwindows.py file change the ip address written there. put your kali linux ip address
+
+Required packages
+1)subprocess
+2)json
+3)socket
+make sure this package present in python
